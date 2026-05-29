@@ -69,7 +69,7 @@ const Home = () => {
         </View>
 
         {/* ── Quick Actions ── */}
-        <Text style={styles.sectionTitle}>Quick Actions</Text>
+        <Text style={styles.sectionTitle}>Quick <Actionss></Actionss></Text>
         <View style={styles.actionsGrid}>
           <TouchableOpacity style={styles.actionCard}>
             <View style={styles.actionIcon}>

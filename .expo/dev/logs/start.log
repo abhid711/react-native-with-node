@@ -1,0 +1,442 @@
+{"_e":"root:init","_t":1779948220526,"format":"v0-jsonl","version":"56.1.11"}
+{"_e":"env:mode","_t":1779948220528,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1779948220531,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1779948220884,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1779948221471,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1779948222024,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:client_log","_t":1779948282253,"level":"error","data":["Project is incompatible with this version of Expo Go\n\nThe project you requested requires a newer version of Expo Go.\n\nHow to fix this error:\n\nDownload the latest version of Expo Go from the App Store."]}
+{"_e":"metro:client_log","_t":1779948295768,"level":"error","data":["Project is incompatible with this version of Expo Go\n\nThe project you requested requires a newer version of Expo Go.\n\nHow to fix this error:\n\nDownload the latest version of Expo Go from the App Store."]}
+{"_e":"root:init","_t":1779948339781,"format":"v0-jsonl","version":"56.1.11"}
+{"_e":"env:mode","_t":1779948339783,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1779948339786,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1779948340111,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1779948340754,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1779948341324,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1779948408919,"id":"1","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779948408920,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779948408927,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779948410004,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1779948410106,"id":"1","progress":0.09,"total":8,"current":3}
+{"_e":"metro:bundling:progress","_t":1779948410220,"id":"1","progress":0.29752066115702475,"total":11,"current":6}
+{"_e":"metro:bundling:progress","_t":1779948410665,"id":"1","progress":0.4049586776859504,"total":11,"current":7}
+{"_e":"metro:bundling:progress","_t":1779948410765,"id":"1","progress":0.4049586776859504,"total":52,"current":16}
+{"_e":"metro:bundling:progress","_t":1779948410866,"id":"1","progress":0.4049586776859504,"total":62,"current":32}
+{"_e":"metro:bundling:progress","_t":1779948410966,"id":"1","progress":0.4049586776859504,"total":63,"current":39}
+{"_e":"metro:bundling:progress","_t":1779948411075,"id":"1","progress":0.50765625,"total":80,"current":57}
+{"_e":"metro:bundling:progress","_t":1779948411179,"id":"1","progress":0.50765625,"total":173,"current":61}
+{"_e":"metro:bundling:progress","_t":1779948411279,"id":"1","progress":0.50765625,"total":181,"current":65}
+{"_e":"metro:bundling:progress","_t":1779948411380,"id":"1","progress":0.50765625,"total":192,"current":77}
+{"_e":"metro:bundling:progress","_t":1779948411483,"id":"1","progress":0.50765625,"total":196,"current":84}
+{"_e":"metro:bundling:progress","_t":1779948411583,"id":"1","progress":0.50765625,"total":216,"current":96}
+{"_e":"metro:bundling:progress","_t":1779948411685,"id":"1","progress":0.50765625,"total":221,"current":99}
+{"_e":"metro:bundling:progress","_t":1779948411785,"id":"1","progress":0.50765625,"total":235,"current":109}
+{"_e":"metro:bundling:progress","_t":1779948411886,"id":"1","progress":0.50765625,"total":264,"current":133}
+{"_e":"metro:bundling:progress","_t":1779948411987,"id":"1","progress":0.50765625,"total":279,"current":150}
+{"_e":"metro:bundling:progress","_t":1779948412087,"id":"1","progress":0.50765625,"total":291,"current":174}
+{"_e":"metro:bundling:progress","_t":1779948412188,"id":"1","progress":0.50765625,"total":313,"current":195}
+{"_e":"metro:bundling:progress","_t":1779948412288,"id":"1","progress":0.50765625,"total":341,"current":217}
+{"_e":"metro:bundling:progress","_t":1779948412389,"id":"1","progress":0.50765625,"total":354,"current":241}
+{"_e":"metro:bundling:progress","_t":1779948412489,"id":"1","progress":0.50765625,"total":384,"current":262}
+{"_e":"metro:bundling:progress","_t":1779948412589,"id":"1","progress":0.50765625,"total":421,"current":287}
+{"_e":"metro:bundling:progress","_t":1779948412689,"id":"1","progress":0.50765625,"total":443,"current":301}
+{"_e":"metro:bundling:progress","_t":1779948412790,"id":"1","progress":0.50765625,"total":448,"current":317}
+{"_e":"metro:bundling:progress","_t":1779948412890,"id":"1","progress":0.5254667149749243,"total":458,"current":332}
+{"_e":"metro:bundling:progress","_t":1779948412992,"id":"1","progress":0.5721564760026299,"total":468,"current":354}
+{"_e":"metro:bundling:progress","_t":1779948413093,"id":"1","progress":0.6265972299168975,"total":475,"current":376}
+{"_e":"metro:bundling:progress","_t":1779948413194,"id":"1","progress":0.6648000206608012,"total":482,"current":393}
+{"_e":"metro:bundling:progress","_t":1779948413294,"id":"1","progress":0.6955695061384386,"total":494,"current":412}
+{"_e":"metro:bundling:progress","_t":1779948413394,"id":"1","progress":0.7279069035021415,"total":504,"current":430}
+{"_e":"metro:bundling:progress","_t":1779948413494,"id":"1","progress":0.7759132385253906,"total":512,"current":451}
+{"_e":"metro:bundling:progress","_t":1779948413595,"id":"1","progress":0.8055658573645533,"total":527,"current":473}
+{"_e":"metro:bundling:progress","_t":1779948413696,"id":"1","progress":0.8454354809297367,"total":534,"current":491}
+{"_e":"metro:bundling:progress","_t":1779948413796,"id":"1","progress":0.8784738769896924,"total":542,"current":508}
+{"_e":"metro:bundling:progress","_t":1779948413896,"id":"1","progress":0.8784738769896924,"total":560,"current":519}
+{"_e":"metro:bundling:progress","_t":1779948413996,"id":"1","progress":0.8784738769896924,"total":573,"current":536}
+{"_e":"metro:bundling:progress","_t":1779948414096,"id":"1","progress":0.9020061334398625,"total":577,"current":548}
+{"_e":"metro:bundling:progress","_t":1779948414197,"id":"1","progress":0.9293752345655846,"total":584,"current":563}
+{"_e":"metro:bundling:progress","_t":1779948414303,"id":"1","progress":0.9764119505889112,"total":590,"current":583}
+{"_e":"metro:bundling:progress","_t":1779948414425,"id":"1","progress":0.9932432625880021,"total":591,"current":589}
+{"_e":"metro:bundling:progress","_t":1779948415262,"id":"1","progress":0.9966187682696741,"total":591,"current":590}
+{"_e":"metro:bundling:progress","_t":1779948415362,"id":"1","progress":0.9966187682696741,"total":654,"current":618}
+{"_e":"metro:bundling:progress","_t":1779948415509,"id":"1","progress":0.9966187682696741,"total":664,"current":633}
+{"_e":"metro:bundling:progress","_t":1779948415611,"id":"1","progress":0.9966187682696741,"total":680,"current":665}
+{"_e":"metro:bundling:progress","_t":1779948415712,"id":"1","progress":0.9970738859865934,"total":683,"current":682}
+{"_e":"metro:bundling:progress","_t":1779948416768,"id":"1","progress":0.999,"total":683,"current":683}
+{"_e":"metro:bundling:progress","_t":1779948416869,"id":"1","progress":0.999,"total":694,"current":694}
+{"_e":"metro:bundling:done","_t":1779948417149,"id":"1","total":694,"ms":8230.152792}
+{"_e":"metro:client_log","_t":1779948712165,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779948966988,"level":"log","data":["Registered:","{\"email\": \"abhid711@\", \"fullName\": \"Abhi D\", \"password\": \"1234566\"}"]}
+{"_e":"root:init","_t":1779949454858,"format":"v0-jsonl","version":"56.1.11"}
+{"_e":"env:mode","_t":1779949454860,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1779949454864,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1779949455171,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1779949455697,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1779949456308,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1779949551966,"id":"1","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779949551966,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779949551970,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779949552070,"id":"1","progress":0.09106823990756625,"total":169,"current":51}
+{"_e":"metro:bundling:progress","_t":1779949552170,"id":"1","progress":0.2734957359937071,"total":283,"current":148}
+{"_e":"metro:bundling:progress","_t":1779949552270,"id":"1","progress":0.45732622535065476,"total":417,"current":282}
+{"_e":"metro:bundling:progress","_t":1779949552370,"id":"1","progress":0.8143085030396342,"total":502,"current":453}
+{"_e":"metro:bundling:progress","_t":1779949552470,"id":"1","progress":0.9190901792564898,"total":581,"current":557}
+{"_e":"metro:bundling:progress","_t":1779949552571,"id":"1","progress":0.9971077383183833,"total":691,"current":690}
+{"_e":"metro:bundling:progress","_t":1779949552860,"id":"1","progress":0.999,"total":691,"current":691}
+{"_e":"metro:bundling:progress","_t":1779949552965,"id":"1","progress":0.999,"total":713,"current":697}
+{"_e":"metro:bundling:progress","_t":1779949553085,"id":"1","progress":0.999,"total":714,"current":698}
+{"_e":"metro:bundling:progress","_t":1779949553112,"id":"1","progress":0.999,"total":714,"current":699}
+{"_e":"metro:bundling:progress","_t":1779949553213,"id":"1","progress":0.999,"total":714,"current":702}
+{"_e":"metro:bundling:progress","_t":1779949553286,"id":"1","progress":0.999,"total":714,"current":703}
+{"_e":"metro:bundling:progress","_t":1779949553386,"id":"1","progress":0.999,"total":749,"current":707}
+{"_e":"metro:bundling:progress","_t":1779949553489,"id":"1","progress":0.999,"total":749,"current":708}
+{"_e":"metro:bundling:progress","_t":1779949553589,"id":"1","progress":0.999,"total":766,"current":714}
+{"_e":"metro:bundling:progress","_t":1779949553666,"id":"1","progress":0.999,"total":766,"current":715}
+{"_e":"metro:bundling:progress","_t":1779949553766,"id":"1","progress":0.999,"total":768,"current":715}
+{"_e":"metro:bundling:progress","_t":1779949553788,"id":"1","progress":0.999,"total":768,"current":716}
+{"_e":"metro:bundling:progress","_t":1779949553888,"id":"1","progress":0.999,"total":772,"current":727}
+{"_e":"metro:bundling:progress","_t":1779949553992,"id":"1","progress":0.999,"total":772,"current":730}
+{"_e":"metro:bundling:progress","_t":1779949554030,"id":"1","progress":0.999,"total":772,"current":731}
+{"_e":"metro:bundling:progress","_t":1779949554131,"id":"1","progress":0.999,"total":773,"current":731}
+{"_e":"metro:bundling:progress","_t":1779949554140,"id":"1","progress":0.999,"total":773,"current":732}
+{"_e":"metro:bundling:progress","_t":1779949554241,"id":"1","progress":0.999,"total":799,"current":747}
+{"_e":"metro:bundling:progress","_t":1779949554341,"id":"1","progress":0.999,"total":800,"current":762}
+{"_e":"metro:bundling:progress","_t":1779949554441,"id":"1","progress":0.999,"total":808,"current":781}
+{"_e":"metro:bundling:progress","_t":1779949554542,"id":"1","progress":0.999,"total":808,"current":793}
+{"_e":"metro:bundling:progress","_t":1779949554642,"id":"1","progress":0.999,"total":814,"current":806}
+{"_e":"metro:bundling:progress","_t":1779949554743,"id":"1","progress":0.999,"total":817,"current":816}
+{"_e":"metro:bundling:done","_t":1779949554849,"id":"1","total":817,"ms":2883.678125}
+{"_e":"metro:client_log","_t":1779949555477,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779949660452,"level":"error","data":["[Error: Couldn't find a navigation object. Is your component inside NavigationContainer?]"]}
+{"_e":"metro:client_log","_t":1779949696590,"level":"error","data":["[Error: Couldn't find a navigation object. Is your component inside NavigationContainer?]"]}
+{"_e":"metro:client_log","_t":1779949920704,"level":"error","data":["[Error: Couldn't find a navigation object. Is your component inside NavigationContainer?]"]}
+{"_e":"metro:client_log","_t":1779949957903,"level":"error","data":["[Error: Couldn't find a navigation object. Is your component inside NavigationContainer?]"]}
+{"_e":"metro:client_log","_t":1779950055352,"level":"error","data":["The 'navigation' object hasn't been initialized yet. This might happen if you don't have a navigator mounted, or if the navigator hasn't finished mounting. See https://reactnavigation.org/docs/navigating-without-navigation-prop#handling-initialization for more details."]}
+{"_e":"metro:client_log","_t":1779950057825,"level":"error","data":["The 'navigation' object hasn't been initialized yet. This might happen if you don't have a navigator mounted, or if the navigator hasn't finished mounting. See https://reactnavigation.org/docs/navigating-without-navigation-prop#handling-initialization for more details."]}
+{"_e":"metro:client_log","_t":1779950058751,"level":"error","data":["The 'navigation' object hasn't been initialized yet. This might happen if you don't have a navigator mounted, or if the navigator hasn't finished mounting. See https://reactnavigation.org/docs/navigating-without-navigation-prop#handling-initialization for more details."]}
+{"_e":"metro:client_log","_t":1779950074135,"level":"error","data":["The 'navigation' object hasn't been initialized yet. This might happen if you don't have a navigator mounted, or if the navigator hasn't finished mounting. See https://reactnavigation.org/docs/navigating-without-navigation-prop#handling-initialization for more details."]}
+{"_e":"metro:client_log","_t":1779950130569,"level":"error","data":["The action 'NAVIGATE' with payload {\"name\":\"/Register\"} was not handled by any navigator.\n\nDo you have a screen named '/Register'?\n\nIf you're trying to navigate to a screen in a nested navigator, see https://reactnavigation.org/docs/nesting-navigators#navigating-to-a-screen-in-a-nested-navigator.\n\nIf you're using conditional rendering, navigation will happen automatically and you shouldn't navigate manually, see.\n\nThis is a development-only warning and won't be shown in production."]}
+{"_e":"root:init","_t":1779950178559,"format":"v0-jsonl","version":"56.1.11"}
+{"_e":"env:mode","_t":1779950178560,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1779950178564,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1779950178864,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1779950179339,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1779950179968,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1779950190878,"id":"2","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779950190879,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779950190882,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779950190982,"id":"2","progress":0.11377236079617034,"total":252,"current":85}
+{"_e":"metro:bundling:progress","_t":1779950191082,"id":"2","progress":0.2967810202717755,"total":402,"current":219}
+{"_e":"metro:bundling:progress","_t":1779950191182,"id":"2","progress":0.4232574106937688,"total":601,"current":391}
+{"_e":"metro:bundling:progress","_t":1779950191282,"id":"2","progress":0.5625,"total":684,"current":513}
+{"_e":"metro:bundling:progress","_t":1779950191382,"id":"2","progress":0.8646584584246921,"total":770,"current":716}
+{"_e":"metro:bundling:progress","_t":1779950191482,"id":"2","progress":0.9454757419563611,"total":832,"current":809}
+{"_e":"metro:bundling:progress","_t":1779950191592,"id":"2","progress":0.999,"total":936,"current":936}
+{"_e":"metro:bundling:done","_t":1779950191667,"id":"2","total":936,"ms":788.875941}
+{"_e":"metro:client_log","_t":1779950192562,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1779950464310,"id":"5","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779950464310,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779950464376,"id":"5","total":1,"ms":66.522488}
+{"_e":"metro:client_log","_t":1779950465339,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1779950764349,"id":"b","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779950764349,"id":"b","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779950764408,"id":"b","total":1,"ms":58.82529}
+{"_e":"metro:client_log","_t":1779950765243,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779950801689,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:failed","_t":1779950969964,"id":null,"message":"Unable to resolve \"@expo/vector-icons/Ionicons\" from \"screens/auth/Register.jsx\"\n  12 |   ActivityIndicator,\n  13 | } from 'react-native'\n> 14 | import Ionicons from '@expo/vector-icons/Ionicons';\n     |                       ^\n  15 | const Register = ({ navigation }) => {\n  16 |   const [fullName, setFullName]                 = useState('')\n  17 |   const [email, setEmail]                       = useState('')","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/auth/Register.jsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons/Ionicons\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/auth/Register\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"@expo/vector-icons/Ionicons","originModulePath":"screens/auth/Register.jsx"}
+{"_e":"metro:bundling:failed","_t":1779950990155,"id":null,"message":"Unable to resolve \"@expo/vector-icons/Ionicons\" from \"screens/auth/Register.jsx\"\n  12 |   ActivityIndicator,\n  13 | } from 'react-native'\n> 14 | import Ionicons from '@expo/vector-icons/Ionicons';\n     |                       ^\n  15 | const Register = ({ navigation }) => {\n  16 |   const [fullName, setFullName]                 = useState('')\n  17 |   const [email, setEmail]                       = useState('')","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/auth/Register.jsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons/Ionicons\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/auth/Register\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"@expo/vector-icons/Ionicons","originModulePath":"screens/auth/Register.jsx"}
+{"_e":"metro:bundling:started","_t":1779951022174,"id":"e","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779951022174,"id":"e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951022174,"id":"e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1779951022180,"id":"e","message":"Unable to resolve \"@expo/vector-icons/Ionicons\" from \"screens/auth/Register.jsx\"\n  12 |   ActivityIndicator,\n  13 | } from 'react-native'\n> 14 | import Ionicons from '@expo/vector-icons/Ionicons';\n     |                       ^\n  15 | const Register = ({ navigation }) => {\n  16 |   const [fullName, setFullName]                 = useState('')\n  17 |   const [email, setEmail]                       = useState('')","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/auth/Register.jsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons/Ionicons\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/auth/Register\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"@expo/vector-icons/Ionicons","originModulePath":"screens/auth/Register.jsx"}
+{"_e":"metro:bundling:started","_t":1779951035916,"id":"g","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779951035916,"id":"g","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951035916,"id":"g","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1779951035924,"id":"g","message":"Unable to resolve \"@expo/vector-icons/Ionicons\" from \"screens/auth/Register.jsx\"\n  12 |   ActivityIndicator,\n  13 | } from 'react-native'\n> 14 | import Ionicons from '@expo/vector-icons/Ionicons';\n     |                       ^\n  15 | const Register = ({ navigation }) => {\n  16 |   const [fullName, setFullName]                 = useState('')\n  17 |   const [email, setEmail]                       = useState('')","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/auth/Register.jsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons/Ionicons\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/auth/Register\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"@expo/vector-icons/Ionicons","originModulePath":"screens/auth/Register.jsx"}
+{"_e":"metro:bundling:started","_t":1779951048545,"id":"j","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779951048545,"id":"j","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951048546,"id":"j","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1779951048552,"id":"j","message":"Unable to resolve \"@expo/vector-icons/Ionicons\" from \"screens/auth/Register.jsx\"\n  12 |   ActivityIndicator,\n  13 | } from 'react-native'\n> 14 | import Ionicons from '@expo/vector-icons/Ionicons';\n     |                       ^\n  15 | const Register = ({ navigation }) => {\n  16 |   const [fullName, setFullName]                 = useState('')\n  17 |   const [email, setEmail]                       = useState('')","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/auth/Register.jsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons/Ionicons\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/auth/Register\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"@expo/vector-icons/Ionicons","originModulePath":"screens/auth/Register.jsx"}
+{"_e":"metro:bundling:started","_t":1779951110106,"id":"k","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779951110106,"id":"k","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951110107,"id":"k","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951110208,"id":"k","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1779951110259,"id":"k","message":"Unable to resolve \"@expo/vector-icons\" from \"screens/auth/Register.jsx\"\n  12 |   ActivityIndicator,\n  13 | } from 'react-native'\n> 14 | import Ionicons from '@expo/vector-icons';\n     |                       ^\n  15 | const Register = ({ navigation }) => {\n  16 |   const [fullName, setFullName]                 = useState('')\n  17 |   const [email, setEmail]                       = useState('')","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/auth/Register.jsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/auth/Register\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"screens/auth/Register.jsx"}
+{"_e":"metro:bundling:started","_t":1779951197934,"id":"m","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779951197934,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951197935,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951198035,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951198136,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951198236,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951198336,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951198436,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951198537,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951198638,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951198739,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951198840,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951198952,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951199052,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951199152,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779951199504,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779951199612,"id":"m","total":1,"ms":1677.878852}
+{"_e":"metro:client_log","_t":1779951200450,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779951202203,"level":"error","data":["[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.\n\nCheck the render method of `Register`.]"]}
+{"_e":"metro:client_log","_t":1779951249569,"level":"error","data":["[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.\n\nCheck the render method of `Register`.]"]}
+{"_e":"metro:client_log","_t":1779951313526,"level":"log","data":["Login:","{\"email\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779951326869,"level":"log","data":["Login:","{\"email\": \"abhid611@gmai;.cpm\", \"password\": \"1234567\"}"]}
+{"_e":"metro:client_log","_t":1779951330436,"level":"log","data":["Login:","{\"email\": \"abhid611@gmai;.cpm\", \"password\": \"1234567\"}"]}
+{"_e":"metro:client_log","_t":1779951357052,"level":"log","data":["Login:","{\"email\": \"abhid611@gmai;.cpm\", \"password\": \"1234567\"}"]}
+{"_e":"metro:client_log","_t":1779951357055,"level":"error","data":["The action 'NAVIGATE' with payload {\"name\":\"Home\"} was not handled by any navigator.\n\nDo you have a screen named 'Home'?\n\nIf you're trying to navigate to a screen in a nested navigator, see https://reactnavigation.org/docs/nesting-navigators#navigating-to-a-screen-in-a-nested-navigator.\n\nIf you're using conditional rendering, navigation will happen automatically and you shouldn't navigate manually, see.\n\nThis is a development-only warning and won't be shown in production."]}
+{"_e":"metro:client_log","_t":1779951477886,"level":"log","data":["Login:","{\"email\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779951477887,"level":"error","data":["The action 'NAVIGATE' with payload {\"name\":\"Home\"} was not handled by any navigator.\n\nDo you have a screen named 'Home'?\n\nIf you're trying to navigate to a screen in a nested navigator, see https://reactnavigation.org/docs/nesting-navigators#navigating-to-a-screen-in-a-nested-navigator.\n\nIf you're using conditional rendering, navigation will happen automatically and you shouldn't navigate manually, see.\n\nThis is a development-only warning and won't be shown in production."]}
+{"_e":"metro:client_log","_t":1779951522519,"level":"log","data":["Login:","{\"email\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779951522520,"level":"error","data":["The action 'NAVIGATE' with payload {\"name\":\"Home\"} was not handled by any navigator.\n\nDo you have a screen named 'Home'?\n\nIf you're trying to navigate to a screen in a nested navigator, see https://reactnavigation.org/docs/nesting-navigators#navigating-to-a-screen-in-a-nested-navigator.\n\nIf you're using conditional rendering, navigation will happen automatically and you shouldn't navigate manually, see.\n\nThis is a development-only warning and won't be shown in production."]}
+{"_e":"metro:client_log","_t":1779951671590,"level":"log","data":["Login:","{\"email\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:started","_t":1779951693320,"id":"x","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779951693320,"id":"x","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779951693384,"id":"x","total":1,"ms":64.327958}
+{"_e":"metro:client_log","_t":1779951694436,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779951699704,"level":"log","data":["Login:","{\"email\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:failed","_t":1779951759254,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/screens/Home.jsx: Expected corresponding JSX closing tag for <View>. (128:4)\n\n  126 |\n  127 |       </ScrollView>\n> 128 |     </SafeAreaView>\n      |     ^\n  129 |  \n  130 |   )\n  131 | }","importStack":null,"filename":"screens/Home.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779951815176,"id":"10","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779951815176,"id":"10","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779951815237,"id":"10","total":1,"ms":60.814948}
+{"_e":"metro:client_log","_t":1779951816315,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779951821938,"level":"log","data":["Login:","{\"email\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779952705462,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779952762212,"level":"error","data":["[ReferenceError: Property 'useNavigation' doesn't exist]"]}
+{"_e":"metro:client_log","_t":1779952849263,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779952884072,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779952915278,"level":"error","data":["[Error: Uncaught (in promise, id: 0): \"TypeError: undefined is not a function\"]"]}
+{"_e":"metro:client_log","_t":1779952921261,"level":"error","data":["[Error: Uncaught (in promise, id: 1): \"TypeError: undefined is not a function\"]"]}
+{"_e":"metro:bundling:started","_t":1779952945846,"id":"1a","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779952945846,"id":"1a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779952945910,"id":"1a","total":1,"ms":63.713301}
+{"_e":"metro:client_log","_t":1779952946862,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779952949005,"level":"error","data":["[Error: Uncaught (in promise, id: 0): \"TypeError: undefined is not a function\"]"]}
+{"_e":"metro:bundling:started","_t":1779952966826,"id":"1e","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779952966826,"id":"1e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779952966886,"id":"1e","total":1,"ms":59.743164}
+{"_e":"metro:client_log","_t":1779952967930,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779952971277,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:started","_t":1779953405634,"id":"1g","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779953405634,"id":"1g","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779953405699,"id":"1g","total":1,"ms":64.393174}
+{"_e":"metro:client_log","_t":1779953406781,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779953476566,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779953888213,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:started","_t":1779953990730,"id":"1i","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779953990730,"id":"1i","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779953990796,"id":"1i","total":1,"ms":66.204515}
+{"_e":"metro:client_log","_t":1779953991879,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779954006581,"level":"log","data":["Registered:","{\"email\": \"ss\", \"fullName\": \"Ddd\", \"password\": \"ddd\"}"]}
+{"_e":"metro:client_log","_t":1779954188745,"level":"error","data":["[ReferenceError: Property 'keyboardType' doesn't exist]"]}
+{"_e":"metro:bundling:started","_t":1779954329141,"id":"1m","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779954329141,"id":"1m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779954329207,"id":"1m","total":1,"ms":66.031904}
+{"_e":"metro:client_log","_t":1779954330304,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779954337216,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779954367486,"level":"log","data":["Registered:","{\"email\": \"ssdd\", \"fullName\": \"Assss\", \"password\": \"dddd\"}"]}
+{"_e":"metro:client_log","_t":1779955448978,"level":"error","data":["[ReferenceError: Property 'TextInput' doesn't exist]"]}
+{"_e":"metro:client_log","_t":1779955502164,"level":"error","data":["[ReferenceError: Property 'TextInput' doesn't exist]"]}
+{"_e":"metro:client_log","_t":1779955516330,"level":"error","data":["[ReferenceError: Property 'onChangeText' doesn't exist]"]}
+{"_e":"metro:bundling:failed","_t":1779955586103,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/screens/auth/Register.jsx: Unexpected token, expected \"}\" (70:83)\n\n  68 |           {/* ── Form ── */}\n  69 |           <View>\n> 70 |             <InputCont value={'Name'} onChangeText={setFullName} placeholder={kuch bhi}/>\n     |                                                                                    ^\n  71 |             {/* ── Divider ── */}\n  72 |             <View style={styles.divider}>\n  73 |               <View style={styles.dividerLine} />","importStack":null,"filename":"screens/auth/Register.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1779955593049,"level":"error","data":["[ReferenceError: Property 'onChangeText' doesn't exist]"]}
+{"_e":"metro:bundling:failed","_t":1779955941788,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/screens/auth/Register.jsx: Expected corresponding JSX closing tag for <InputCont>. (106:10)\n\n  104 |             </View>\n  105 |\n> 106 |           </View>\n      |           ^\n  107 |         </ScrollView>\n  108 |       </KeyboardAvoidingView>\n  109 |     </SafeAreaView>","importStack":null,"filename":"screens/auth/Register.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779955995166,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/screens/auth/Register.jsx: Expected corresponding JSX closing tag for <InputCont>. (106:10)\n\n  104 |             </View>\n  105 |\n> 106 |           </View>\n      |           ^\n  107 |         </ScrollView>\n  108 |       </KeyboardAvoidingView>\n  109 |     </SafeAreaView>","importStack":null,"filename":"screens/auth/Register.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1779956263484,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:failed","_t":1779956384872,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/screens/auth/Login.jsx: Expected corresponding JSX closing tag for <ScrollView>. (103:10)\n\n  101 |             </View>\n  102 |\n> 103 |           </View>\n      |           ^\n  104 |         </ScrollView>\n  105 |       </KeyboardAvoidingView>\n  106 |     </SafeAreaView>","importStack":null,"filename":"screens/auth/Login.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779956393816,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/screens/auth/Login.jsx: Expected corresponding JSX closing tag for <ScrollView>. (103:10)\n\n  101 |             </View>\n  102 |\n> 103 |           </View>\n      |           ^\n  104 |         </ScrollView>\n  105 |       </KeyboardAvoidingView>\n  106 |     </SafeAreaView>","importStack":null,"filename":"screens/auth/Login.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779956393877,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/screens/auth/Login.jsx: Expected corresponding JSX closing tag for <ScrollView>. (103:10)\n\n  101 |             </View>\n  102 |\n> 103 |           </View>\n      |           ^\n  104 |         </ScrollView>\n  105 |       </KeyboardAvoidingView>\n  106 |     </SafeAreaView>","importStack":null,"filename":"screens/auth/Login.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1779956575324,"level":"log","data":["Login:","{\"email\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779956627009,"level":"log","data":["Login:","{\"email\": \"Abhi\", \"password\": \"Lalala\"}"]}
+{"_e":"metro:bundling:started","_t":1779957478210,"id":"1z","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779957478210,"id":"1z","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779957478275,"id":"1z","total":1,"ms":65.855981}
+{"_e":"metro:client_log","_t":1779957479365,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779957489342,"level":"log","data":["Login:","{\"email\": \"Jjkkkk\", \"password\": \"Joh\"}"]}
+{"_e":"metro:client_log","_t":1779957525970,"level":"error","data":["[ReferenceError: Property 'secureTextEntry' doesn't exist]"]}
+{"_e":"metro:client_log","_t":1779957730954,"level":"error","data":["[ReferenceError: Property 'TouchableOpacity' doesn't exist]"]}
+{"_e":"metro:client_log","_t":1779957895169,"level":"error","data":["[TypeError: '' is not a function]"]}
+{"_e":"metro:bundling:failed","_t":1779957907158,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/components/SocialButton.jsx: Unterminated template. (99:3)\n\n   97 |\n   98 | })\n>  99 | ```\n      |    ^\n  100 | ","importStack":null,"filename":"components/SocialButton.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779957907214,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/components/SocialButton.jsx: Unterminated template. (99:3)\n\n   97 |\n   98 | })\n>  99 | ```\n      |    ^\n  100 | ","importStack":null,"filename":"components/SocialButton.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1779958063393,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:failed","_t":1779958173746,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/screens/Landing.jsx: Expected corresponding JSX closing tag for <Text>. (37:6)\n\n  35 |           Build something amazing{'\\n'}every single day\n  36 |         </Text>\n> 37 |       </View>\n     |       ^\n  38 |\n  39 |       {/* ── Bottom Buttons ── */}\n  40 |       <View style={styles.bottomSection}>","importStack":null,"filename":"screens/Landing.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779958226624,"id":"2a","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779958226624,"id":"2a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779958226690,"id":"2a","total":1,"ms":66.014435}
+{"_e":"metro:client_log","_t":1779958227776,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779958297450,"level":"log","data":["Login:","{\"email\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:started","_t":1779958472940,"id":"2c","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779958472940,"id":"2c","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779958472999,"id":"2c","total":1,"ms":58.710597}
+{"_e":"metro:client_log","_t":1779958474082,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1779958476476,"id":"2e","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779958476476,"id":"2e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779958476538,"id":"2e","total":1,"ms":62.089871}
+{"_e":"metro:client_log","_t":1779958477641,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1779958513311,"id":"2h","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779958513311,"id":"2h","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779958513374,"id":"2h","total":1,"ms":62.899002}
+{"_e":"metro:client_log","_t":1779958514511,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1779958596087,"id":"2j","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779958596087,"id":"2j","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779958596155,"id":"2j","total":1,"ms":67.921216}
+{"_e":"metro:client_log","_t":1779958597261,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1779958599248,"id":"2l","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779958599248,"id":"2l","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779958599308,"id":"2l","total":1,"ms":60.735978}
+{"_e":"metro:client_log","_t":1779958600399,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1779958645524,"id":"2n","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779958645524,"id":"2n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779958645588,"id":"2n","total":1,"ms":64.335685}
+{"_e":"metro:client_log","_t":1779958646680,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1779958787712,"id":"2p","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779958787712,"id":"2p","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779958787778,"id":"2p","total":1,"ms":65.507057}
+{"_e":"metro:client_log","_t":1779958788866,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779958948556,"level":"error","data":["[ReferenceError: Property 'safea' doesn't exist]"]}
+{"_e":"metro:bundling:started","_t":1779958964007,"id":"2t","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779958964007,"id":"2t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779958964067,"id":"2t","total":1,"ms":60.28582}
+{"_e":"metro:client_log","_t":1779958965123,"level":"error","data":["[runtime not ready]: ReferenceError: Property 'safea' doesn't exist"]}
+{"_e":"metro:bundling:started","_t":1779958969318,"id":"2u","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779958969318,"id":"2u","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779958969385,"id":"2u","total":1,"ms":67.58752}
+{"_e":"metro:client_log","_t":1779958969758,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1779958969758,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1779958969759,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1779958975666,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1779958975770,"id":"2w","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779958975770,"id":"2w","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779958975842,"id":"2w","total":1,"ms":71.833842}
+{"_e":"metro:client_log","_t":1779958976940,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1779959039932,"id":"2y","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779959039932,"id":"2y","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779959040000,"id":"2y","total":1,"ms":67.946017}
+{"_e":"metro:client_log","_t":1779959041082,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1779959087904,"id":"30","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779959087904,"id":"30","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779959087962,"id":"30","total":1,"ms":58.466681}
+{"_e":"metro:bundling:started","_t":1779959418175,"id":"32","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779959418175,"id":"32","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779959418234,"id":"32","total":1,"ms":59.465924}
+{"_e":"metro:client_log","_t":1779959492517,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779959598111,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779959608377,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779959628761,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779959636428,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779959654395,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779959669541,"level":"error","data":["[ReferenceError: Property 'value' doesn't exist]"]}
+{"_e":"metro:client_log","_t":1779959698028,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:failed","_t":1779959722359,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/screens/auth/Register.jsx: Expected corresponding JSX closing tag for <InputCont>. (110:10)\n\n  108 |             </View>\n  109 |\n> 110 |           </View>\n      |           ^\n  111 |         </ScrollView>\n  112 |       </KeyboardAvoidingView>\n  113 |     </SafeAreaView>","importStack":null,"filename":"screens/auth/Register.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1779959779444,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779959830532,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:started","_t":1779959894889,"id":"38","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779959894889,"id":"38","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779959894952,"id":"38","total":1,"ms":63.597388}
+{"_e":"metro:client_log","_t":1779959901849,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"Sdfvd\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:started","_t":1779959941343,"id":"3a","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779959941343,"id":"3a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779959941400,"id":"3a","total":1,"ms":56.863659}
+{"_e":"metro:client_log","_t":1779959953186,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"Sssss\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779960013854,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \",ssssss\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:started","_t":1779960092501,"id":"3c","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960092501,"id":"3c","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960092563,"id":"3c","total":1,"ms":62.320813}
+{"_e":"metro:client_log","_t":1779960104989,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"Absks\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779960115356,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"Abala\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779960192707,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"Abala\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:started","_t":1779960195274,"id":"3e","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960195275,"id":"3e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960195335,"id":"3e","total":1,"ms":60.674328}
+{"_e":"metro:client_log","_t":1779960202071,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"Ssss\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779960303947,"level":"error","data":["[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.\n\nCheck the render method of `Register`.]"]}
+{"_e":"metro:client_log","_t":1779960309553,"level":"error","data":["[ReferenceError: Property 'TouchableOpacity' doesn't exist]"]}
+{"_e":"metro:client_log","_t":1779960345768,"level":"error","data":["[ReferenceError: Property 'loading' doesn't exist]"]}
+{"_e":"metro:bundling:failed","_t":1779960393629,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/components/Button.jsx: Unexpected reserved word 'await'. (11:10)\n\n   9 |         try {\n  10 |           // TODO: Connect your API here\n> 11 |           await new Promise((resolve) => setTimeout(resolve, 1500));\n     |           ^\n  12 |           console.log(\"Registered:\", { fullName, email, password });\n  13 |           // navigation.navigate('Home')\n  14 |         } catch (error) {","importStack":null,"filename":"components/Button.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779960397359,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/components/Button.jsx: Unexpected reserved word 'await'. (11:10)\n\n   9 |         try {\n  10 |           // TODO: Connect your API here\n> 11 |           await new Promise((resolve) => setTimeout(resolve, 1500));\n     |           ^\n  12 |           console.log(\"Registered:\", { fullName, email, password });\n  13 |           // navigation.navigate('Home')\n  14 |         } catch (error) {","importStack":null,"filename":"components/Button.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779960406570,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/components/Button.jsx: Unexpected reserved word 'await'. (11:10)\n\n   9 |         try {\n  10 |           // TODO: Connect your API here\n> 11 |           await new Promise((resolve) => setTimeout(resolve, 1500));\n     |           ^\n  12 |           console.log(\"Registered:\", { fullName, email, password });\n  13 |           // navigation.navigate('Home')\n  14 |         } catch (error) {","importStack":null,"filename":"components/Button.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779960457905,"id":"k","message":"SyntaxError: /Users/abhineshdwivedi/Desktop/React Native/Recat-Native with Node/client/screens/auth/Register.jsx: 'import' and 'export' may only appear at the top level. (106:0)\n\n  104 | };\n  105 |\n> 106 | export default Register;\n      | ^\n  107 |\n  108 | const styles = StyleSheet.create({\n  109 |   safeArea: {","importStack":null,"filename":"screens/auth/Register.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1779960463431,"level":"error","data":["[ReferenceError: Property 'useState' doesn't exist]"]}
+{"_e":"metro:client_log","_t":1779960472285,"level":"error","data":["[Error: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:\n1. You might have mismatching versions of React and the renderer (such as React DOM)\n2. You might be breaking the Rules of Hooks\n3. You might have more than one copy of React in the same app\nSee https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem.]"]}
+{"_e":"metro:bundling:started","_t":1779960537150,"id":"3s","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960537150,"id":"3s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960537215,"id":"3s","total":1,"ms":64.527322}
+{"_e":"metro:client_log","_t":1779960538271,"level":"error","data":["Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:\n1. You might have mismatching versions of React and the renderer (such as React DOM)\n2. You might be breaking the Rules of Hooks\n3. You might have more than one copy of React in the same app\nSee https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem."]}
+{"_e":"metro:client_log","_t":1779960538272,"level":"error","data":["[runtime not ready]: TypeError: Cannot read property 'useState' of null"]}
+{"_e":"metro:bundling:started","_t":1779960549125,"id":"3v","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960549125,"id":"3v","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960549182,"id":"3v","total":1,"ms":57.714628}
+{"_e":"metro:client_log","_t":1779960549509,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1779960549509,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1779960549509,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1779960555440,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1779960555473,"id":"3w","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960555473,"id":"3w","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960555529,"id":"3w","total":1,"ms":55.542944}
+{"_e":"metro:client_log","_t":1779960556378,"level":"error","data":["Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:\n1. You might have mismatching versions of React and the renderer (such as React DOM)\n2. You might be breaking the Rules of Hooks\n3. You might have more than one copy of React in the same app\nSee https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem."]}
+{"_e":"metro:client_log","_t":1779960556379,"level":"error","data":["[runtime not ready]: TypeError: Cannot read property 'useState' of null"]}
+{"_e":"metro:bundling:started","_t":1779960633562,"id":"3z","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960633562,"id":"3z","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960633619,"id":"3z","total":1,"ms":57.13398}
+{"_e":"metro:client_log","_t":1779960634297,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1779960634297,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1779960634297,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1779960648900,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1779960649002,"id":"41","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960649002,"id":"41","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960649064,"id":"41","total":1,"ms":62.562401}
+{"_e":"metro:client_log","_t":1779960650070,"level":"error","data":["Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:\n1. You might have mismatching versions of React and the renderer (such as React DOM)\n2. You might be breaking the Rules of Hooks\n3. You might have more than one copy of React in the same app\nSee https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem."]}
+{"_e":"metro:client_log","_t":1779960650070,"level":"error","data":["[runtime not ready]: TypeError: Cannot read property 'useState' of null"]}
+{"_e":"metro:bundling:started","_t":1779960653682,"id":"44","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960653682,"id":"44","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960653746,"id":"44","total":1,"ms":64.41356}
+{"_e":"metro:client_log","_t":1779960654080,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1779960654081,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1779960654081,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1779960726613,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1779960726715,"id":"46","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960726715,"id":"46","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960726784,"id":"46","total":1,"ms":68.754607}
+{"_e":"metro:client_log","_t":1779960727848,"level":"error","data":["Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:\n1. You might have mismatching versions of React and the renderer (such as React DOM)\n2. You might be breaking the Rules of Hooks\n3. You might have more than one copy of React in the same app\nSee https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem."]}
+{"_e":"metro:client_log","_t":1779960727848,"level":"error","data":["[runtime not ready]: TypeError: Cannot read property 'useState' of null"]}
+{"_e":"metro:bundling:started","_t":1779960763916,"id":"49","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960763916,"id":"49","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960764299,"id":"49","total":1,"ms":382.814785}
+{"_e":"metro:client_log","_t":1779960765276,"level":"error","data":["Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:\n1. You might have mismatching versions of React and the renderer (such as React DOM)\n2. You might be breaking the Rules of Hooks\n3. You might have more than one copy of React in the same app\nSee https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem."]}
+{"_e":"metro:client_log","_t":1779960765277,"level":"error","data":["[runtime not ready]: TypeError: Cannot read property 'useState' of null"]}
+{"_e":"metro:bundling:started","_t":1779960767828,"id":"4e","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960767828,"id":"4e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960767886,"id":"4e","total":1,"ms":58.13991}
+{"_e":"metro:client_log","_t":1779960768808,"level":"error","data":["Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:\n1. You might have mismatching versions of React and the renderer (such as React DOM)\n2. You might be breaking the Rules of Hooks\n3. You might have more than one copy of React in the same app\nSee https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem."]}
+{"_e":"metro:client_log","_t":1779960768809,"level":"error","data":["[runtime not ready]: TypeError: Cannot read property 'useState' of null"]}
+{"_e":"metro:bundling:failed","_t":1779960787804,"id":"k","message":"Unable to resolve \"../../components/Button\" from \"screens/auth/Register.jsx\"\n  15 | import InputCont from \"../../components/InputCont\";\n  16 | import SocialButton from \"../../components/SocialButton\";\n> 17 | import Button from \"../../components/Button\";\n     |                     ^\n  18 | const Register = () => {\n  19 |   const navigation = useNavigation();\n  20 |   const [fullName, setFullName] = useState(\"\");","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/auth/Register.jsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../../components/Button\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/auth/Register\"\u001b[39m\n","filename":null,"targetModuleName":"../../components/Button","originModulePath":"screens/auth/Register.jsx"}
+{"_e":"metro:bundling:started","_t":1779960788465,"id":"4i","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960788465,"id":"4i","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960788542,"id":"4i","total":1,"ms":77.370069}
+{"_e":"metro:client_log","_t":1779960789052,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1779960789052,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1779960789053,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:bundling:failed","_t":1779960792819,"id":"k","message":"Unable to resolve \"../../components/Button\" from \"screens/auth/Register.jsx\"\n  15 | import InputCont from \"../../components/InputCont\";\n  16 | import SocialButton from \"../../components/SocialButton\";\n> 17 | import Button from \"../../components/Button\";\n     |                     ^\n  18 | const Register = () => {\n  19 |   const navigation = useNavigation();\n  20 |   const [fullName, setFullName] = useState(\"\");","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/auth/Register.jsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../../components/Button\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/auth/Register\"\u001b[39m\n","filename":null,"targetModuleName":"../../components/Button","originModulePath":"screens/auth/Register.jsx"}
+{"_e":"metro:client_log","_t":1779960793520,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoFetchModule'"]}
+{"_e":"metro:bundling:failed","_t":1779960795557,"id":"k","message":"Unable to resolve \"../../components/Button\" from \"screens/auth/Register.jsx\"\n  15 | import InputCont from \"../../components/InputCont\";\n  16 | import SocialButton from \"../../components/SocialButton\";\n> 17 | import Button from \"../../components/Button\";\n     |                     ^\n  18 | const Register = () => {\n  19 |   const navigation = useNavigation();\n  20 |   const [fullName, setFullName] = useState(\"\");","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mscreens/auth/Register.jsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../../components/Button\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./screens/auth/Register\"\u001b[39m\n","filename":null,"targetModuleName":"../../components/Button","originModulePath":"screens/auth/Register.jsx"}
+{"_e":"metro:bundling:started","_t":1779960871711,"id":"4k","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960871711,"id":"4k","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960871770,"id":"4k","total":1,"ms":58.857048}
+{"_e":"metro:client_log","_t":1779960879608,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779960963812,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779960989762,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:started","_t":1779960994607,"id":"4m","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779960994607,"id":"4m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779960994675,"id":"4m","total":1,"ms":67.24196}
+{"_e":"metro:client_log","_t":1779961002744,"level":"log","data":["Registered:","{\"email\": \"\", \"fullName\": \"Lklklk\", \"password\": \"\"}"]}
+{"_e":"metro:client_log","_t":1779963935168,"level":"log","data":["Login:","{\"email\": \"\", \"password\": \"\"}"]}
+{"_e":"metro:bundling:started","_t":1779963943787,"id":"4o","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:started","_t":1779963949318,"id":"4q","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779963949318,"id":"4q","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779963949390,"id":"4q","total":1,"ms":72.09342}
+{"_e":"metro:client_log","_t":1779963960592,"level":"log","data":["Login:","{\"email\": \"Abhid77282092\", \"password\": \"hbjnkml\"}"]}
+{"_e":"metro:bundling:started","_t":1779963983385,"id":"4s","platform":"ios","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1779963983385,"id":"4s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779963983459,"id":"4s","total":1,"ms":73.829768}
+{"_e":"metro:client_log","_t":1779963988945,"level":"log","data":["Login:","{\"email\": \"\", \"password\": \"\"}"]}
