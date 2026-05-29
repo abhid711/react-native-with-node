@@ -11,13 +11,13 @@ import {
   ScrollView,
   ActivityIndicator,
 } from 'react-native'
-import { useNavigation } from '@react-navigation/native'
+// import { useNavigation } from '@react-navigation/native'
 import InputCont from '../../components/InputCont'
 import SocialButton from '../../components/SocialButton'
 import { SafeAreaView } from 'react-native-safe-area-context'
-const Login = () => {
-  const navigation = useNavigation()  // ← const, not props
-
+const Login = ({navigation}) => {
+  //agar aapkp import aur variable nahi banan to isko distructure kar
+  // const navigation = useNavigation()  // ← const, not props
   const [email, setEmail]               = useState('')
   const [password, setPassword]         = useState('')
   const [showPassword, setShowPassword] = useState(false)
